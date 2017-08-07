@@ -1,8 +1,8 @@
-Lucian Maly
+# Lucian Maly
 -----------
-<p><a href="https://github.com/luckylittle/professional-it-certifications/archive/master.zip">Download all files from here [~20 MB, .zip]</a></p>
+<p><a href="https://github.com/luckylittle/professional-it-certifications/archive/lucian-maly.zip">Download all files from here [~21.9 MB, .zip]</a></p>
 
-Note: Some pdf files do not download correctly from GitHub and may become corrupted. In that case, <a href="https://github.com/luckylittle/professional-it-certifications/archive/master.zip">download the whole repository</a> and open it in your local pdf viewer. 
+Note: Some pdf files do not download correctly from GitHub and may become corrupted. In that case, <a href="https://github.com/luckylittle/professional-it-certifications/archive/lucian-maly.zip">download the whole repository</a> and open it in your local pdf viewer. 
 
 E-mail(s): <<lmaly@odecee.com.au>> | <<lucian.maly@cba.com.au>> | ~~<<lucian.maly@oracle.com>>~~ | ~~<<maly@kerio.com>>~~
 
@@ -36,3 +36,5 @@ Education
 Technology
 -----------
 [Docker Hub](https://hub.docker.com/u/luckylittle/)
+
+[Developers Red Hat blog](https://developers.redhat.com/blog/author/luckylittle81/)
