@@ -1,5 +1,5 @@
 # Lucian Maly
------------
+
 <p><a href="https://github.com/luckylittle/professional-it-certifications/archive/lucian-maly.zip">Download all files from here [~21.9 MB, .zip]</a></p>
 
 Note: Some pdf files do not download correctly from GitHub and may become corrupted. In that case, <a href="https://github.com/luckylittle/professional-it-certifications/archive/lucian-maly.zip">download the whole repository</a> and open it in your local pdf viewer. 
@@ -32,9 +32,13 @@ Education
 
 [SoloLearn](https://www.sololearn.com/Profile/4115540)
 
+[CloudAcademy](https://cloudacademy.com/user/lucian.maly/)
+
 
 Technology
 -----------
-[Docker Hub](https://hub.docker.com/u/luckylittle/)
+[Docker Hub](https://hub.docker.com/u/luckylittle/) [11/2014]
 
-[Developers Red Hat blog](https://developers.redhat.com/blog/author/luckylittle81/)
+[Red Hat Developers blog](https://developers.redhat.com/blog/author/luckylittle81/) [04/2016]
+
+[Kaggle](https://www.kaggle.com/luckylittle) [03/2017]
