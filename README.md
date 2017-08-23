@@ -34,6 +34,8 @@ Education
 
 [CloudAcademy](https://cloudacademy.com/user/lucian.maly/)
 
+[Exercism](http://exercism.io/profiles/luckylittle/ec68de552ced4bbfbcb6e0c93171d9cc)
+
 
 Technology
 -----------
