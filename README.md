@@ -36,6 +36,10 @@ Education
 
 [Exercism](http://exercism.io/profiles/luckylittle/ec68de552ced4bbfbcb6e0c93171d9cc)
 
+[Hacker Rank](https://www.hackerrank.com/luckylittle)
+
+[Cybrary](https://www.cybrary.it/members/luckylittle/)
+
 
 Technology
 -----------
