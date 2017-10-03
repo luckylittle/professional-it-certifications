@@ -4,7 +4,7 @@
 
 Note: Some pdf files do not download correctly from GitHub and may become corrupted. In that case, <a href="https://github.com/luckylittle/professional-it-certifications/archive/lucian-maly.zip">download the whole repository</a> and open it in your local pdf viewer. 
 
-E-mail(s): <<lmaly@odecee.com.au>> | <<lucian.maly@cba.com.au>> | ~~<<lucian.maly@oracle.com>>~~ | ~~<<maly@kerio.com>>~~
+E-mail(s): <<lucian.maly@versent.com.au>> | ~~<<lmaly@odecee.com.au>>~~ | ~~<<lucian.maly@cba.com.au>>~~ | ~~<<lucian.maly@oracle.com>>~~ | ~~<<maly@kerio.com>>~~
 
 
 Social
