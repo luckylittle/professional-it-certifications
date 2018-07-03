@@ -48,3 +48,5 @@ Technology
 [Red Hat Developers blog](https://developers.redhat.com/blog/author/luckylittle81/) [04/2016]
 
 [Kaggle](https://www.kaggle.com/luckylittle) [03/2017]
+
+[CentOS Project](https://wiki.centos.org/LucianMaly)
