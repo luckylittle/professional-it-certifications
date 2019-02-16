@@ -45,8 +45,12 @@ Technology
 -----------
 [Docker Hub](https://hub.docker.com/u/luckylittle/) [11/2014]
 
+[AWS Transcript](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=H6S9VEE2KN4Q14CH) [09/2015]
+
+[Red Hat Certified Professional](https://www.redhat.com/rhtapps/services/verify/?certId=150-123-248) [07/2015]
+
 [Red Hat Developers blog](https://developers.redhat.com/blog/author/luckylittle81/) [04/2016]
 
-[Kaggle](https://www.kaggle.com/luckylittle) [03/2017]
-
 [CentOS Project](https://wiki.centos.org/LucianMaly)
+
+[Kaggle](https://www.kaggle.com/luckylittle) [03/2017]
