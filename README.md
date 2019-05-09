@@ -53,4 +53,8 @@ Technology
 
 [CentOS Project](https://wiki.centos.org/LucianMaly)
 
+[Fedora Project](https://admin.fedoraproject.org/accounts/user/view/luckylittle)
+
 [Kaggle](https://www.kaggle.com/luckylittle) [03/2017]
+
+[Red Hat People](http://people.redhat.com/lmaly/)
