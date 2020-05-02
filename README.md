@@ -1,6 +1,6 @@
 # Lucian Maly
 
-<p><a href="https://github.com/luckylittle/professional-it-certifications/archive/lucian-maly.zip">Download all files from here [~21.9 MB, .zip]</a></p>
+<p><a href="https://github.com/luckylittle/professional-it-certifications/archive/lucian-maly.zip">Download all files from here [~24.3 MB, .zip]</a></p>
 
 Note: Some pdf files do not download correctly from GitHub and may become corrupted. In that case, <a href="https://github.com/luckylittle/professional-it-certifications/archive/lucian-maly.zip">download the whole repository</a> and open it in your local pdf viewer. 
 
@@ -39,6 +39,8 @@ Education
 [Hacker Rank](https://www.hackerrank.com/luckylittle)
 
 [Cybrary](https://www.cybrary.it/members/luckylittle/)
+
+[Acclaim](https://www.youracclaim.com/users/lucian-maly)
 
 
 Technology
