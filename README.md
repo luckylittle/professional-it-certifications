@@ -15,6 +15,7 @@ Social
 
 [Meetup](https://www.meetup.com/members/75260192/)
 
+[JavaRanch](https://coderanch.com/u/395786/Lucian-Maly)
 
 Education
 -----------
